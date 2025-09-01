@@ -1,4 +1,4 @@
-# Texture-Map-Editing-Tutorial
+# Texture Map Editing Tutorial
 A tutorial repository for Texture map editing in Krita.
 
 ## Edit the Texture Map in Krita
